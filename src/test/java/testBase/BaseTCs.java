@@ -99,7 +99,7 @@ public Properties p;
 	
 	
 	//Screenshot
-	public String captureSS(String nameOfSS) {
+	public static String captureSS(String nameOfSS) {
 		
 		String timeStamp = new SimpleDateFormat("yyyyMMddHHmmSS").format(new Date());
 		

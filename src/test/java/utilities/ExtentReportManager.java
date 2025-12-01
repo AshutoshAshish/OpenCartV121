@@ -77,7 +77,7 @@ public class ExtentReportManager implements ITestListener{
 		test.log(Status.INFO, result.getThrowable().getMessage());
 		
 		try {
-			String pathOfSS = new BaseTCs().captureSS(result.getName());
+			String pathOfSS = BaseTCs.captureSS(result.getName());
 			test.addScreenCaptureFromPath(pathOfSS);
 		} 
 		catch(Exception e1) {
