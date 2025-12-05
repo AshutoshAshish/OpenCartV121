@@ -240,3 +240,4 @@
 01:31:18.112 [main] INFO  testCase.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest Execution
 01:31:23.470 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest...****
 01:31:27.151 [main] INFO  testCase.TC002_LoginTest - **** Finished TC002_LoginTest...****
+02:01:08.505 [main] INFO  testCase.TC004_AddToWishlistTest - **** Starting TC001_AccountRegistrationTest Execution...****
